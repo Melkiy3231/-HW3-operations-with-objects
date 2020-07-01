@@ -1,4 +1,5 @@
 package main.java.com.yaroslavshchur.objcount;
+
 public class ObjCount {
     private static int count;
 
